@@ -42,7 +42,7 @@
 }
 
 .first{
-    color: rgb(193, 153, 104);
+    /* color: rgb(193, 153, 104); */
     
     margin-left: 16px;
     margin-top: 100vh;
@@ -54,7 +54,7 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .second{
-   color: rgb(193, 153, 104);
+   /* color: rgb(193, 153, 104); */
     margin-left: 16px;
     font-size:30px;
    margin-top: 25px;
@@ -63,14 +63,14 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .third{
-   color: rgb(193, 153, 104);
+   /* color: rgb(193, 153, 104); */
     margin-left: 16px;
     font-size:30px;
     text-decoration: none;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .fourth{
-   color: rgb(193, 153, 104);
+   /* color: rgb(193, 153, 104); */
     margin-left: 16px;
     font-size:30px;
     text-decoration: none;
