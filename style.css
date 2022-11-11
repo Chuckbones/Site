@@ -16,8 +16,6 @@
 
 }
 
-
-
 .left_area {
 
     /* display: block; */
@@ -67,7 +65,7 @@
 body {
     min-height: 100vh;
     min-width: 100vh;
-
+    margin:0;
     flex-direction: row;
 }
 
@@ -135,6 +133,7 @@ ul {
 
 a {
     font-size: 130%;
+    transition-duration: 10s;
 }
 
 li {
@@ -165,12 +164,33 @@ li {
     float: right;
     right: 0;
     position: relative;
-
+  
+    flex-direction: column;
     top: 0%;
-    width: 78%;
-    height: 120vh;
+    width: 78.26%;
+    min-height: 1000vh;
     left: 0%;
+    background-color: black;
+
+
+}
+.page1 {
+    height: 100vh;
+    position: relative;
+    
+}
+.page2 {
+    height: 100vh;
+    position: relative;
     background-color: antiquewhite;
-
-
+}
+.page3 {
+    height: 100vh;
+    position: relative;
+    background-color: antiquewhite;
+}
+.page4 {
+    height: 100vh;
+    position: relative;
+    background-color: antiquewhite;
 }
